@@ -1,0 +1,13 @@
+
+accleration_velocity_displacement.m
+cal_db_rms.m
+FFT.m
+fft_change.m
+main.m
+matlab.mat
+my_db_rms.m
+my_octave_fft.m
+test.m
+untitled.m
+untitled2.m
+untitled3.m

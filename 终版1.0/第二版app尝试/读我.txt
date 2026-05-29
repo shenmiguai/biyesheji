@@ -1,0 +1,4 @@
+xjm2是app安装包
+xjm2.mlapp是最终版matlab程序
+csdn_cal_rms_hebing.m   matlab代码处理
+对应的.m文件，夸克盘有一份原版

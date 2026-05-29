@@ -1,0 +1,14 @@
+accleration_velocity_displacement.asv     
+accleration_velocity_displacement.m        //信号的加速度a、速度v、位移x 的转换。
+				 //傅里叶变换来处理时域信号，转化为频域信号，并通过相应的滤波和变换来获得加速度、速度和位移的频域表示
+cal_db_rms.m            //计算     信号的分贝均方根值”（Calculate Decibel RMS）
+FFT.m                       //FFT
+fft_change.m            //改变FFT
+main.m                     //主函数
+matlab.mat
+my_db_rms.m
+my_octave_fft.m
+test.m
+untitled.m
+untitled2.m
+untitled3.m
