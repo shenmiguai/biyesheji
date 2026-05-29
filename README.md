@@ -1,9 +1,3 @@
-<img width   宽度="442" height="363" alt="image" src="https://github.com/user-attachments/assets/1b5e8c2e-ab39-43c9-8c51-67cfed24961e" /># 基于三分之一倍频程谱分析的振动信号特征提取研究
-# Vibration Signal Feature Extraction Based on One-Third Octave Band Spectral Analysis基于三倍频带频谱分析的振动信号特征提取
-
-[![MATLAB](https://img.shields.io/badge/MATLAB-R2022b+-blue.svg)](https://www.mathworks.com/products/matlab.html)(! (MATLAB) (https://img.shields。io /徽章/ MATLAB-R2022b -blue.svg) (https://www.mathworks.com/products/matlab.html)
-[![License   许可证](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)(!(许可证)(https://img.shields.io/badge/License-MIT-green.svg))(许可证)
-
 ## 📌 项目简介
 本项目为**烟台大学工学学士毕业设计**，研究主题为机械设备振动信号特征提取。针对传统 FFT 在非平稳信号处理中频率分辨率不足、易丢失早期故障特征等问题，采用**三分之一倍频程谱分析**技术，结合信号预处理与频域能量量化方法，实现复杂工况下振动信号的精细化特征提取。
 
